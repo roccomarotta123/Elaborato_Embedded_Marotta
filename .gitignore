@@ -1,0 +1,61 @@
+# Vivado Project Files
+*.xpr
+*.xpr.backup
+*.wdb
+*.jou
+*.log
+*.str
+*.dir
+*.bit
+*.bin
+*.elf
+*.hdf
+*.hwh
+*.ip_user_files
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.data/
+*.settings/
+*.metadata/
+*.srcs/sources_1/bd/*/synth/
+*.srcs/sources_1/bd/*/sim/
+*.srcs/sources_1/ip/*/
+.Xil
+xilinx*.zip
+vivado*.tgz
+.ip_user_files/
+.Xil/
+
+# SDK / Vitis Files (if you use them)
+.cproject
+.project
+.sdk
+.metadata
+build/
+debug/
+release/
+
+# General ignored files
+*.DS_Store
+*.bak
+*~
+*.tmp
+*.swp
+*.swp
+*.user
+*.log
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.obj
+*.pyc
+__pycache__/
+
+# Specific to your project
+# You might want to include only certain .xpr files if you have multiple projects in one repo
+# Or exclude specific IP files if you regenerate them
