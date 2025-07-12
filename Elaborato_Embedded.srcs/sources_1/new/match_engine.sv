@@ -1,8 +1,8 @@
 // File: match_engine.sv
 
-`timescale 1ns / 1ps // Definizione della risoluzione temporale (1ns per unità di tempo, 1ps per precisione)
+`timescale 1ns / 1ps 
 
-import traffic_manager_pkg::*; // Importa il package con i parametri e i tipi di dati globali
+import traffic_manager_pkg::*; //package con i parametri e i tipi di dati globali
 
 module match_engine #(
     parameter PKT_DATA_WIDTH = AXI_STREAM_DATA_WIDTH,
@@ -36,7 +36,7 @@ module match_engine #(
     typedef enum logic [1:0] {
         STATE_IDLE,         // Attesa di un nuovo pacchetto
         STATE_PROCESSING,   // Elaborazione di tutti i beat del pacchetto
-        STATE_WAIT_ACC,     // Aggiornamento registri di accumulo
+        STATE_WAIT_ACC,     // Aggiornamento registri di accumulo beat finale
         STATE_REPORT_MATCH  // Segnalazione dei match finali dopo l'elaborazione completa del pacchetto
     } fsm_state_e;
 

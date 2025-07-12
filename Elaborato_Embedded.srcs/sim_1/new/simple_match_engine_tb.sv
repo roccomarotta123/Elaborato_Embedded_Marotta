@@ -1,5 +1,5 @@
 // File: match_engine_tb.sv
-`timescale 1ns / 1ps // Definizione della risoluzione temporale (1ns per unità di tempo, 1ps per precisione)
+`timescale 1ns / 1ps 
 
 module simple_match_engine_tb;
 
@@ -142,7 +142,7 @@ module simple_match_engine_tb;
         // Regola 2: Cerca byte 0xCC all'indirizzo 70 (secondo beat)
         // Assumendo PKT_KSTRB_WIDTH = 64 (512/8), il secondo beat inizia a offset 64.
         // L'indirizzo 70 è nell'offset 6 (70-64) del secondo beat.
-        // Questo dovrebbe matchare nel secondo beat.
+        // Questo dovrebbe matchare nel secondo beat del primo e del secondo pacchetto
         rules_in[2] = '{
             addr:         70, // Indirizzo 70 del pacchetto (offset 6 nel secondo beat)
             value:        8'hCC,

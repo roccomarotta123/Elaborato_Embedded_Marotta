@@ -44,7 +44,6 @@ package traffic_manager_pkg;
 
     // =====================================================================
     // MAPPATURA AXI-LITE PER rule_entry_t (COME I REGISTRI VERRANNO SCRITTI/LETTI)
-    // Questa sezione rimane un riferimento cruciale per il software!
     // =====================================================================
     // rules_axi_reg[rule_idx][0] (Word 0):
     // { (8'b0), addr[11:0], value[7:0], symbol[2:0], enable[0:0] }
