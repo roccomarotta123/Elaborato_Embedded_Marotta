@@ -28,7 +28,7 @@ vivado*.tgz
 .ip_user_files/
 .Xil/
 
-# SDK / Vitis Files (if you use them)
+# SDK / Vitis Files
 .cproject
 .project
 .sdk
@@ -55,7 +55,3 @@ release/
 *.obj
 *.pyc
 __pycache__/
-
-# Specific to your project
-# You might want to include only certain .xpr files if you have multiple projects in one repo
-# Or exclude specific IP files if you regenerate them
