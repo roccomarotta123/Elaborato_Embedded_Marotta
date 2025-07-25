@@ -1,0 +1,3580 @@
+Avvio test match_engine SW...
+Inizio test match_engine SW con input da file 'packet_stream_for_match_engine.txt'...
+
+--- FINE MESSAGGIO FIX 1 (Blocchi: 2) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 2 (Blocchi: 4) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 3 (Blocchi: 6) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 4 (Blocchi: 8) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 5 (Blocchi: 14) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 6 (Blocchi: 20) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 7 (Blocchi: 26) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 8 (Blocchi: 32) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 9 (Blocchi: 38) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 10 (Blocchi: 44) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 11 (Blocchi: 50) ---
+   Numero di match individuali: 4
+   Risultato SOP finale: MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 2 (Addr: 0xA2) - TX Addr: 0x7000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 12 (Blocchi: 56) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 13 (Blocchi: 62) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 14 (Blocchi: 68) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 15 (Blocchi: 74) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 16 (Blocchi: 80) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 17 (Blocchi: 86) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 18 (Blocchi: 92) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 19 (Blocchi: 98) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 20 (Blocchi: 104) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 21 (Blocchi: 110) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 22 (Blocchi: 116) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 23 (Blocchi: 122) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 24 (Blocchi: 128) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 25 (Blocchi: 134) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 26 (Blocchi: 140) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 27 (Blocchi: 146) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 28 (Blocchi: 152) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 29 (Blocchi: 158) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 30 (Blocchi: 164) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 31 (Blocchi: 170) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 32 (Blocchi: 176) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 33 (Blocchi: 182) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 34 (Blocchi: 188) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 35 (Blocchi: 194) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 36 (Blocchi: 200) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 37 (Blocchi: 206) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 38 (Blocchi: 212) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 39 (Blocchi: 218) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 40 (Blocchi: 224) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 41 (Blocchi: 230) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 42 (Blocchi: 236) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 43 (Blocchi: 242) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 44 (Blocchi: 248) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 45 (Blocchi: 254) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 46 (Blocchi: 260) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 47 (Blocchi: 266) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 48 (Blocchi: 272) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 49 (Blocchi: 278) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 50 (Blocchi: 284) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 51 (Blocchi: 290) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 52 (Blocchi: 296) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 53 (Blocchi: 302) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 54 (Blocchi: 308) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 55 (Blocchi: 315) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 56 (Blocchi: 322) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 57 (Blocchi: 329) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 58 (Blocchi: 336) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 59 (Blocchi: 343) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 60 (Blocchi: 350) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 61 (Blocchi: 357) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 62 (Blocchi: 364) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 63 (Blocchi: 371) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 64 (Blocchi: 378) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 65 (Blocchi: 385) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 66 (Blocchi: 392) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 67 (Blocchi: 399) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 68 (Blocchi: 406) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 69 (Blocchi: 413) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 70 (Blocchi: 420) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 71 (Blocchi: 427) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 72 (Blocchi: 434) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 73 (Blocchi: 441) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 74 (Blocchi: 448) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 75 (Blocchi: 455) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 76 (Blocchi: 462) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 77 (Blocchi: 469) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 78 (Blocchi: 476) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 79 (Blocchi: 483) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 80 (Blocchi: 490) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 81 (Blocchi: 497) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 82 (Blocchi: 504) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 83 (Blocchi: 511) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 84 (Blocchi: 518) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 85 (Blocchi: 525) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 86 (Blocchi: 532) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 87 (Blocchi: 539) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 88 (Blocchi: 546) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 89 (Blocchi: 553) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 90 (Blocchi: 560) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 91 (Blocchi: 567) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 92 (Blocchi: 574) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 93 (Blocchi: 581) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 94 (Blocchi: 588) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 95 (Blocchi: 595) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 96 (Blocchi: 602) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 97 (Blocchi: 609) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 98 (Blocchi: 616) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 99 (Blocchi: 623) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 100 (Blocchi: 630) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 101 (Blocchi: 637) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 102 (Blocchi: 644) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 103 (Blocchi: 651) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 104 (Blocchi: 658) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 105 (Blocchi: 665) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 106 (Blocchi: 672) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 107 (Blocchi: 679) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 108 (Blocchi: 686) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 109 (Blocchi: 693) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 110 (Blocchi: 700) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 111 (Blocchi: 707) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 112 (Blocchi: 714) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 113 (Blocchi: 721) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 114 (Blocchi: 732) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 115 (Blocchi: 739) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 116 (Blocchi: 746) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 117 (Blocchi: 753) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 118 (Blocchi: 760) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 119 (Blocchi: 767) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 120 (Blocchi: 774) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 121 (Blocchi: 781) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 122 (Blocchi: 788) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 123 (Blocchi: 795) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 124 (Blocchi: 802) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 125 (Blocchi: 809) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 126 (Blocchi: 816) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 127 (Blocchi: 823) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 128 (Blocchi: 830) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 129 (Blocchi: 837) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 130 (Blocchi: 844) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 131 (Blocchi: 851) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 132 (Blocchi: 858) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 133 (Blocchi: 865) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 134 (Blocchi: 872) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 135 (Blocchi: 879) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 136 (Blocchi: 886) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 137 (Blocchi: 893) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 138 (Blocchi: 900) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 139 (Blocchi: 907) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 140 (Blocchi: 914) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 141 (Blocchi: 921) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 142 (Blocchi: 928) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 143 (Blocchi: 935) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 144 (Blocchi: 942) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 145 (Blocchi: 949) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 146 (Blocchi: 956) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 147 (Blocchi: 963) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 148 (Blocchi: 970) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 149 (Blocchi: 977) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 150 (Blocchi: 984) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 151 (Blocchi: 991) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 152 (Blocchi: 998) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 153 (Blocchi: 1005) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 154 (Blocchi: 1012) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 155 (Blocchi: 1019) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 156 (Blocchi: 1027) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 157 (Blocchi: 1035) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 158 (Blocchi: 1043) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 159 (Blocchi: 1051) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 160 (Blocchi: 1058) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 161 (Blocchi: 1065) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 162 (Blocchi: 1072) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 163 (Blocchi: 1079) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 164 (Blocchi: 1086) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 165 (Blocchi: 1093) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 166 (Blocchi: 1100) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 167 (Blocchi: 1107) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 168 (Blocchi: 1115) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 169 (Blocchi: 1123) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 170 (Blocchi: 1131) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 171 (Blocchi: 1139) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 172 (Blocchi: 1146) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 173 (Blocchi: 1153) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 174 (Blocchi: 1160) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 175 (Blocchi: 1167) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 176 (Blocchi: 1174) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 177 (Blocchi: 1181) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 178 (Blocchi: 1188) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 179 (Blocchi: 1195) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 180 (Blocchi: 1202) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 181 (Blocchi: 1210) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 182 (Blocchi: 1218) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 183 (Blocchi: 1226) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 184 (Blocchi: 1233) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 185 (Blocchi: 1240) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 186 (Blocchi: 1247) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 187 (Blocchi: 1254) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 188 (Blocchi: 1261) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 189 (Blocchi: 1269) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 190 (Blocchi: 1277) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 191 (Blocchi: 1285) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 192 (Blocchi: 1292) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 193 (Blocchi: 1299) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 194 (Blocchi: 1306) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 195 (Blocchi: 1313) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 196 (Blocchi: 1320) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 197 (Blocchi: 1327) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 198 (Blocchi: 1334) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 199 (Blocchi: 1341) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 200 (Blocchi: 1348) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 201 (Blocchi: 1355) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 202 (Blocchi: 1362) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 203 (Blocchi: 1369) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 204 (Blocchi: 1376) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 205 (Blocchi: 1383) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 206 (Blocchi: 1390) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 207 (Blocchi: 1398) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 208 (Blocchi: 1405) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 209 (Blocchi: 1412) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 210 (Blocchi: 1419) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 211 (Blocchi: 1426) ---
+   Numero di match individuali: 2
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 212 (Blocchi: 1433) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 213 (Blocchi: 1440) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 214 (Blocchi: 1447) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 215 (Blocchi: 1454) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 216 (Blocchi: 1461) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 217 (Blocchi: 1468) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 218 (Blocchi: 1475) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 219 (Blocchi: 1483) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 220 (Blocchi: 1491) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 221 (Blocchi: 1498) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 222 (Blocchi: 1505) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 223 (Blocchi: 1512) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 224 (Blocchi: 1519) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 225 (Blocchi: 1526) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 226 (Blocchi: 1533) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 227 (Blocchi: 1541) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 228 (Blocchi: 1549) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 229 (Blocchi: 1557) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 230 (Blocchi: 1565) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 231 (Blocchi: 1573) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 232 (Blocchi: 1581) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 233 (Blocchi: 1589) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 234 (Blocchi: 1596) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 235 (Blocchi: 1603) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 236 (Blocchi: 1610) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 237 (Blocchi: 1617) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 238 (Blocchi: 1624) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 239 (Blocchi: 1631) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 240 (Blocchi: 1639) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 241 (Blocchi: 1647) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 242 (Blocchi: 1655) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 243 (Blocchi: 1663) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 244 (Blocchi: 1671) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 245 (Blocchi: 1679) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 246 (Blocchi: 1686) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 247 (Blocchi: 1693) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 248 (Blocchi: 1700) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 249 (Blocchi: 1707) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 250 (Blocchi: 1714) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 251 (Blocchi: 1721) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 252 (Blocchi: 1728) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 253 (Blocchi: 1735) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 254 (Blocchi: 1743) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 255 (Blocchi: 1751) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 256 (Blocchi: 1759) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 257 (Blocchi: 1767) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 258 (Blocchi: 1775) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 259 (Blocchi: 1783) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 260 (Blocchi: 1790) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 261 (Blocchi: 1797) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 262 (Blocchi: 1804) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 263 (Blocchi: 1811) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 264 (Blocchi: 1818) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 265 (Blocchi: 1825) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 266 (Blocchi: 1832) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 267 (Blocchi: 1839) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 268 (Blocchi: 1846) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 269 (Blocchi: 1853) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 270 (Blocchi: 1860) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 271 (Blocchi: 1867) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 272 (Blocchi: 1874) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 273 (Blocchi: 1881) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 274 (Blocchi: 1888) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 275 (Blocchi: 1895) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 276 (Blocchi: 1902) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 277 (Blocchi: 1909) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 278 (Blocchi: 1916) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 279 (Blocchi: 1923) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 280 (Blocchi: 1930) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 281 (Blocchi: 1937) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 282 (Blocchi: 1944) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 283 (Blocchi: 1951) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 284 (Blocchi: 1958) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 285 (Blocchi: 1965) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 286 (Blocchi: 1972) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 287 (Blocchi: 1979) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 288 (Blocchi: 1986) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 289 (Blocchi: 1994) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 290 (Blocchi: 2002) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 291 (Blocchi: 2010) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 292 (Blocchi: 2017) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 293 (Blocchi: 2025) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 294 (Blocchi: 2032) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 295 (Blocchi: 2039) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 296 (Blocchi: 2046) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 297 (Blocchi: 2053) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 298 (Blocchi: 2060) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 299 (Blocchi: 2067) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 300 (Blocchi: 2074) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 301 (Blocchi: 2081) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 302 (Blocchi: 2089) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 303 (Blocchi: 2097) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 304 (Blocchi: 2105) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 305 (Blocchi: 2113) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 306 (Blocchi: 2120) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 307 (Blocchi: 2127) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 308 (Blocchi: 2134) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 309 (Blocchi: 2141) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 310 (Blocchi: 2148) ---
+   Numero di match individuali: 2
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 311 (Blocchi: 2155) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 312 (Blocchi: 2162) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 313 (Blocchi: 2170) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 314 (Blocchi: 2178) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 315 (Blocchi: 2186) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 316 (Blocchi: 2193) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 317 (Blocchi: 2200) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 318 (Blocchi: 2207) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 319 (Blocchi: 2214) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 320 (Blocchi: 2221) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 321 (Blocchi: 2229) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 322 (Blocchi: 2237) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 323 (Blocchi: 2245) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 324 (Blocchi: 2253) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 325 (Blocchi: 2261) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 326 (Blocchi: 2269) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 327 (Blocchi: 2277) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 328 (Blocchi: 2284) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 329 (Blocchi: 2291) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 330 (Blocchi: 2298) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 331 (Blocchi: 2305) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 332 (Blocchi: 2312) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 333 (Blocchi: 2319) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 334 (Blocchi: 2326) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 335 (Blocchi: 2333) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 336 (Blocchi: 2340) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 337 (Blocchi: 2347) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 338 (Blocchi: 2354) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 339 (Blocchi: 2361) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 340 (Blocchi: 2368) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 341 (Blocchi: 2375) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 342 (Blocchi: 2382) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 343 (Blocchi: 2389) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 344 (Blocchi: 2396) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 345 (Blocchi: 2403) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 346 (Blocchi: 2410) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 347 (Blocchi: 2417) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 348 (Blocchi: 2424) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 349 (Blocchi: 2431) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 350 (Blocchi: 2438) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 351 (Blocchi: 2445) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 352 (Blocchi: 2452) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 353 (Blocchi: 2459) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 354 (Blocchi: 2466) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 355 (Blocchi: 2473) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 356 (Blocchi: 2480) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 357 (Blocchi: 2487) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 358 (Blocchi: 2494) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 359 (Blocchi: 2502) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 360 (Blocchi: 2510) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 361 (Blocchi: 2518) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 362 (Blocchi: 2526) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 363 (Blocchi: 2534) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 364 (Blocchi: 2541) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 365 (Blocchi: 2548) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 366 (Blocchi: 2555) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 367 (Blocchi: 2562) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 368 (Blocchi: 2569) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 369 (Blocchi: 2577) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 370 (Blocchi: 2585) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 371 (Blocchi: 2593) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 372 (Blocchi: 2600) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 373 (Blocchi: 2607) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 374 (Blocchi: 2614) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 375 (Blocchi: 2621) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 376 (Blocchi: 2628) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 377 (Blocchi: 2635) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 378 (Blocchi: 2642) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 379 (Blocchi: 2649) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 380 (Blocchi: 2656) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 381 (Blocchi: 2663) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 382 (Blocchi: 2670) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 383 (Blocchi: 2677) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 384 (Blocchi: 2684) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 385 (Blocchi: 2691) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 386 (Blocchi: 2698) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 387 (Blocchi: 2705) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 388 (Blocchi: 2712) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 389 (Blocchi: 2720) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 390 (Blocchi: 2728) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 391 (Blocchi: 2736) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 392 (Blocchi: 2743) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 393 (Blocchi: 2750) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 394 (Blocchi: 2757) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 395 (Blocchi: 2764) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 396 (Blocchi: 2771) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 397 (Blocchi: 2778) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 398 (Blocchi: 2785) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 399 (Blocchi: 2793) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 400 (Blocchi: 2801) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 401 (Blocchi: 2809) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 402 (Blocchi: 2817) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 403 (Blocchi: 2824) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 404 (Blocchi: 2831) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 405 (Blocchi: 2838) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 406 (Blocchi: 2845) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 407 (Blocchi: 2852) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 408 (Blocchi: 2859) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 409 (Blocchi: 2866) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 410 (Blocchi: 2873) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 411 (Blocchi: 2880) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 412 (Blocchi: 2887) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 413 (Blocchi: 2895) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 414 (Blocchi: 2903) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 415 (Blocchi: 2910) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 416 (Blocchi: 2917) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 417 (Blocchi: 2924) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 418 (Blocchi: 2931) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 419 (Blocchi: 2938) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 420 (Blocchi: 2945) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 421 (Blocchi: 2952) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 422 (Blocchi: 2959) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 423 (Blocchi: 2966) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 424 (Blocchi: 2973) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 425 (Blocchi: 2980) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 426 (Blocchi: 2987) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 427 (Blocchi: 2994) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 428 (Blocchi: 3001) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 429 (Blocchi: 3009) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 430 (Blocchi: 3016) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 431 (Blocchi: 3023) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 432 (Blocchi: 3030) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 433 (Blocchi: 3037) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 434 (Blocchi: 3045) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 435 (Blocchi: 3053) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 436 (Blocchi: 3060) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 437 (Blocchi: 3068) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 438 (Blocchi: 3076) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 439 (Blocchi: 3083) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 440 (Blocchi: 3090) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 441 (Blocchi: 3097) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 442 (Blocchi: 3104) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 443 (Blocchi: 3112) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 444 (Blocchi: 3120) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 445 (Blocchi: 3128) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 446 (Blocchi: 3135) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 447 (Blocchi: 3142) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 448 (Blocchi: 3149) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 449 (Blocchi: 3156) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 450 (Blocchi: 3163) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 451 (Blocchi: 3170) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 452 (Blocchi: 3177) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 453 (Blocchi: 3184) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 454 (Blocchi: 3191) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 455 (Blocchi: 3198) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 456 (Blocchi: 3205) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 457 (Blocchi: 3212) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 458 (Blocchi: 3220) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 459 (Blocchi: 3227) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 460 (Blocchi: 3234) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 461 (Blocchi: 3241) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 462 (Blocchi: 3248) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 463 (Blocchi: 3255) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 464 (Blocchi: 3262) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 465 (Blocchi: 3269) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 466 (Blocchi: 3276) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 467 (Blocchi: 3283) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 468 (Blocchi: 3290) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 469 (Blocchi: 3297) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 470 (Blocchi: 3304) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 471 (Blocchi: 3311) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 472 (Blocchi: 3318) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 473 (Blocchi: 3325) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 474 (Blocchi: 3332) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 475 (Blocchi: 3339) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 476 (Blocchi: 3346) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 477 (Blocchi: 3354) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 478 (Blocchi: 3362) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 479 (Blocchi: 3369) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 480 (Blocchi: 3376) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 481 (Blocchi: 3383) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 482 (Blocchi: 3390) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 483 (Blocchi: 3397) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 484 (Blocchi: 3404) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 485 (Blocchi: 3411) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 486 (Blocchi: 3419) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 487 (Blocchi: 3427) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 488 (Blocchi: 3435) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 489 (Blocchi: 3442) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 490 (Blocchi: 3449) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 491 (Blocchi: 3456) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 492 (Blocchi: 3463) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 493 (Blocchi: 3470) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 494 (Blocchi: 3477) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 495 (Blocchi: 3484) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 496 (Blocchi: 3492) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 497 (Blocchi: 3500) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 498 (Blocchi: 3508) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 499 (Blocchi: 3515) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 500 (Blocchi: 3522) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 501 (Blocchi: 3529) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 502 (Blocchi: 3536) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 503 (Blocchi: 3543) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 504 (Blocchi: 3550) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 505 (Blocchi: 3557) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 506 (Blocchi: 3564) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 507 (Blocchi: 3571) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 508 (Blocchi: 3578) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 509 (Blocchi: 3585) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 510 (Blocchi: 3592) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 511 (Blocchi: 3599) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 512 (Blocchi: 3606) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 513 (Blocchi: 3613) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 514 (Blocchi: 3620) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 515 (Blocchi: 3627) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 516 (Blocchi: 3634) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 517 (Blocchi: 3641) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 518 (Blocchi: 3649) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 519 (Blocchi: 3657) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 520 (Blocchi: 3665) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 521 (Blocchi: 3672) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 522 (Blocchi: 3679) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 523 (Blocchi: 3686) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 524 (Blocchi: 3693) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 525 (Blocchi: 3700) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 526 (Blocchi: 3707) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 527 (Blocchi: 3714) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 528 (Blocchi: 3721) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 529 (Blocchi: 3728) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 530 (Blocchi: 3735) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 531 (Blocchi: 3743) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 532 (Blocchi: 3751) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 533 (Blocchi: 3759) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 534 (Blocchi: 3767) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 535 (Blocchi: 3774) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 536 (Blocchi: 3781) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 537 (Blocchi: 3788) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 538 (Blocchi: 3795) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 539 (Blocchi: 3802) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 540 (Blocchi: 3809) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 541 (Blocchi: 3816) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 542 (Blocchi: 3823) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 543 (Blocchi: 3830) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 544 (Blocchi: 3837) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 545 (Blocchi: 3844) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 546 (Blocchi: 3851) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 547 (Blocchi: 3859) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 548 (Blocchi: 3867) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 549 (Blocchi: 3875) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 550 (Blocchi: 3883) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 551 (Blocchi: 3890) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 552 (Blocchi: 3897) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 553 (Blocchi: 3904) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 554 (Blocchi: 3911) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 555 (Blocchi: 3918) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 556 (Blocchi: 3926) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 557 (Blocchi: 3934) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 558 (Blocchi: 3941) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 559 (Blocchi: 3948) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 560 (Blocchi: 3955) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 561 (Blocchi: 3962) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 562 (Blocchi: 3969) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 563 (Blocchi: 3976) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 564 (Blocchi: 3983) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 565 (Blocchi: 3990) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 566 (Blocchi: 3997) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 567 (Blocchi: 4004) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 568 (Blocchi: 4011) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 569 (Blocchi: 4018) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 570 (Blocchi: 4026) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 571 (Blocchi: 4034) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 572 (Blocchi: 4041) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 573 (Blocchi: 4048) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 574 (Blocchi: 4055) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 575 (Blocchi: 4062) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 576 (Blocchi: 4069) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 577 (Blocchi: 4076) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 578 (Blocchi: 4083) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 579 (Blocchi: 4090) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 580 (Blocchi: 4097) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 581 (Blocchi: 4104) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 582 (Blocchi: 4111) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 583 (Blocchi: 4118) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 584 (Blocchi: 4125) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 585 (Blocchi: 4132) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 586 (Blocchi: 4139) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 587 (Blocchi: 4146) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 588 (Blocchi: 4153) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 589 (Blocchi: 4160) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 590 (Blocchi: 4167) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 591 (Blocchi: 4174) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 592 (Blocchi: 4181) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 593 (Blocchi: 4188) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 594 (Blocchi: 4195) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 595 (Blocchi: 4202) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 596 (Blocchi: 4210) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 597 (Blocchi: 4217) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 598 (Blocchi: 4224) ---
+   Numero di match individuali: 2
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 599 (Blocchi: 4231) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 600 (Blocchi: 4238) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 601 (Blocchi: 4245) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 602 (Blocchi: 4252) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 603 (Blocchi: 4259) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 604 (Blocchi: 4267) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 605 (Blocchi: 4275) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 606 (Blocchi: 4283) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 607 (Blocchi: 4291) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 608 (Blocchi: 4299) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 609 (Blocchi: 4306) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 610 (Blocchi: 4313) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 611 (Blocchi: 4320) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 612 (Blocchi: 4327) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 613 (Blocchi: 4334) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 614 (Blocchi: 4341) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 615 (Blocchi: 4348) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 616 (Blocchi: 4355) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 617 (Blocchi: 4362) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 618 (Blocchi: 4369) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 619 (Blocchi: 4376) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 620 (Blocchi: 4383) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 621 (Blocchi: 4390) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 622 (Blocchi: 4397) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 623 (Blocchi: 4404) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 624 (Blocchi: 4406) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 625 (Blocchi: 4408) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 626 (Blocchi: 4414) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 0 (Addr: 0x14) - TX Addr: 0x5000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 627 (Blocchi: 4421) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 1 (Addr: 0x139) - TX Addr: 0x6000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 628 (Blocchi: 4428) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 629 (Blocchi: 4436) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 630 (Blocchi: 4444) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 631 (Blocchi: 4451) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 632 (Blocchi: 4458) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 633 (Blocchi: 4465) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 634 (Blocchi: 4472) ---
+   Numero di match individuali: 1
+   Risultato SOP finale: NO MATCH
+   Regole che hanno matchato:
+     - Regola 3 (Addr: 0x161) - TX Addr: 0x8000
+----------------------------------
+
+--- FINE MESSAGGIO FIX 635 (Blocchi: 4479) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 636 (Blocchi: 4486) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 637 (Blocchi: 4493) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 638 (Blocchi: 4500) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+--- FINE MESSAGGIO FIX 639 (Blocchi: 4502) ---
+   Numero di match individuali: 0
+   Risultato SOP finale: NO MATCH
+----------------------------------
+
+Test completato con input da file.
+Processati 4502 blocchi totali (639 messaggi FIX completi)
