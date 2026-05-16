@@ -1,6 +1,9 @@
 # SmartNIC Traffic Manager on FPGA
 
-
+![Hardware](https://img.shields.io/badge/Hardware-Xilinx%20Alveo%20U250-blue.svg)
+![Language](https://img.shields.io/badge/Language-SystemVerilog-green.svg)
+![Protocol](https://img.shields.io/badge/Protocol-AMBA%20AXI-orange.svg)
+![Tools](https://img.shields.io/badge/Tools-Vivado-red.svg)
 
 This repository contains the **SystemVerilog** implementation of a **Traffic Manager (Match Engine)** module, designed to be integrated into a **SmartNIC** architecture based on the **Xilinx Alveo U250** FPGA.
 
