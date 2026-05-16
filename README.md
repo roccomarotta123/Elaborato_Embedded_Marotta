@@ -1,8 +1,16 @@
 # SmartNIC Traffic Manager on FPGA
 
+
+
 This repository contains the **SystemVerilog** implementation of a **Traffic Manager (Match Engine)** module, designed to be integrated into a **SmartNIC** architecture based on the **Xilinx Alveo U250** FPGA.
 
 This project heavily emphasizes the use of the **AMBA AXI protocol**, a core topic studied during the embedded systems course. The module relies extensively on AXI standards to ensure high-throughput data streaming and standardized memory-mapped configuration.
+
+<p align="center">
+  <img src="low-latency-FPGA.png" alt="Low Latency FPGA SmartNIC" width="800"/>
+</p>
+
+*The diagram illustrates the core advantage of an FPGA-based SmartNIC approach: by processing packets directly in hardware on the datapath, the architecture completely bypasses the software network stack bottlenecks, achieving deterministic ultra-low latency.*
 
 ## 📌 Architectural Overview
 
