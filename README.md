@@ -10,7 +10,7 @@ This repository contains the **SystemVerilog** implementation of a **Traffic Man
 This project heavily emphasizes the use of the **AMBA AXI protocol**, a core topic studied during the embedded systems course. The module relies extensively on AXI standards to ensure high-throughput data streaming and standardized memory-mapped configuration.
 
 <p align="center">
-  <img src="low-latency-FPGA.png" alt="Low Latency FPGA SmartNIC" width="800"/>
+  <img src="img/low-latency-FPGA.png" alt="Low Latency FPGA SmartNIC" width="800"/>
 </p>
 
 *The diagram illustrates the core advantage of an FPGA-based SmartNIC approach: by processing packets directly in hardware on the datapath, the architecture completely bypasses the software network stack bottlenecks, achieving deterministic ultra-low latency.*
@@ -20,11 +20,11 @@ This project heavily emphasizes the use of the **AMBA AXI protocol**, a core top
 The component is inserted into the network card's datapath between the **CMAC** submodule and the **Packet-Transmitter**, acting as a high-performance filter and inspector for incoming Ethernet traffic.
 
 <p align="center">
-  <img src="IMG_1133.jpg" alt="SmartNIC Architecture" width="600"/>
+  <img src="img/IMG_1133.jpg" alt="SmartNIC Architecture" width="600"/>
 </p>
 
 <p align="center">
-  <img src="IMG_1134.jpg" alt="Alveo U250 Architecture" width="600"/>
+  <img src="img/IMG_1134.jpg" alt="Alveo U250 Architecture" width="600"/>
 </p>
 
 
@@ -50,22 +50,22 @@ Stringent exploratory analyses were conducted (with a target clock of **350 MHz*
 
 **16 Rules:**
 <p align="center">
-  <img src="16_RULES.jpg" alt="16 Rules Synthesis" width="800"/>
+  <img src="img/16_RULES.jpg" alt="16 Rules Synthesis" width="800"/>
 </p>
 
 **128 Rules:**
 <p align="center">
-  <img src="128_RULES.jpg" alt="128 Rules Synthesis" width="800"/>
+  <img src="img/128_RULES.jpg" alt="128 Rules Synthesis" width="800"/>
 </p>
 
 **512 Rules:**
 <p align="center">
-  <img src="512_RULES.jpg" alt="512 Rules Synthesis" width="800"/>
+  <img src="img/512_RULES.jpg" alt="512 Rules Synthesis" width="800"/>
 </p>
 
 **1024 Rules:**
 <p align="center">
-  <img src="1024_RULES.jpg" alt="1024 Rules Synthesis" width="800"/>
+  <img src="img/1024_RULES.jpg" alt="1024 Rules Synthesis" width="800"/>
 </p>
 
 *   The design fully meets the constraints at 350 MHz when scaling up to **512 parallel rules**.
