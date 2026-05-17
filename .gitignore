@@ -55,6 +55,3 @@ release/
 *.obj
 *.pyc
 __pycache__/
-
-# Images
-img/
